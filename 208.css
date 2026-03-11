@@ -58,9 +58,9 @@ width:772px;
 margin:0 auto;
 padding:0 13px;
 position:relative;
-background:url(images/bg.jpg) repeat-x #dfdfdf;
-border-left:1px solid #ffffff;
-border-right:1px solid #ffffff;
+background:url(images/bg.jpg) repeat-x lightblue;
+border-left:1px solid lightblue;
+border-right:1px solid lightblue;
 color:#454545;
 text-align:left;
 }
@@ -223,14 +223,14 @@ display:inline;
 color:#666666;
 padding:0;
 background:none;
-background-color:#ffffff;
+background-color:lightblue;
 }
 
 footer a{
 text-decoration:none;
 color:#888888;
-background-color:#dfdfdf;
-border:1px solid #bdbdbd;
+background-color:lightblue;
+border:1px solid lightblue;
 padding:3px 3px;
 height:100%;
 }
