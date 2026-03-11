@@ -58,9 +58,9 @@ width:772px;
 margin:0 auto;
 padding:0 13px;
 position:relative;
-background:url(images/bg.jpg) repeat-x lightblue;
-border-left:1px solid lightblue;
-border-right:1px solid lightblue;
+background:url(images/bg.jpg) repeat-x #dfdfdf;
+border-left:1px solid #ffffff;
+border-right:1px solid #ffffff;
 color:#454545;
 text-align:left;
 }
@@ -265,7 +265,7 @@ background:url(images/left_bg.gif) repeat-y;
 
 /* side image */
 .summary {background-image:url(images/image_quicksummary.jpg);background-position:left bottom;}
-.preamble {background-image:url(/images/image_benefits.jpg);background-position:right bottom;}
+.preamble {background-image:url(images/image_benefits.jpg);background-position:right bottom;}
 .explanation {background-image:url(images/image_explanation.jpg);background-position:left bottom;}
 .participation {background-image:url(images/image_participation.jpg);background-position:right bottom;}
 .benefits {background-image:url(images/image_benefits.jpg);background-position:left bottom;}
